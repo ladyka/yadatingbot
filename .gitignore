@@ -163,3 +163,5 @@ cython_debug/
 code.zip
 .DS_Store
 create_function_version_local.sh
+
+.idea/
